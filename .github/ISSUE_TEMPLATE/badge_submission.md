@@ -27,6 +27,8 @@ Type your level (type exactly as shown):
 
 **GitHub Username:** @[your-username]
 
+**Contact Email (for updates):** you@example.com
+
 **PR Link:** [Paste your pull request URL]
 
 **Branch Name:** working-[level]-[yourname]
